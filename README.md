@@ -1,4 +1,4 @@
-# Agent-Management
+
 MERN Stack Application - Admin User Login, Agent Management, and CSV Upload Distribution
 This application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and implements basic functionality for admin user login, agent creation and management, as well as uploading and distributing lists from a CSV file.
 
